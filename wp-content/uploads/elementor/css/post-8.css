@@ -1,0 +1,32 @@
+.elementor-kit-8{--e-global-color-primary:#000000;--e-global-color-secondary:#6885AD;--e-global-color-text:#9FAFC6;--e-global-color-accent:#F3F3F3;--e-global-color-e59f0b8:#FFFFFF;--e-global-color-d4fa24d:#C69FAF;--e-global-color-f91cdef:#AFC69F;--e-global-color-bff6e81:#22416D;--e-global-color-f9f8549:#22416D8C;--e-global-color-f092095:#6885ADBB;--e-global-color-88d389a:#9FAFC6CC;--e-global-color-238a180:#00000077;--e-global-typography-primary-font-family:"Agelast";--e-global-typography-primary-font-size:20px;--e-global-typography-primary-font-weight:400;--e-global-typography-secondary-font-family:"Comfortaa Regular";--e-global-typography-secondary-font-size:20px;--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Comfortaa Regular";--e-global-typography-text-font-size:14px;--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Comfortaa Regular";--e-global-typography-accent-font-size:14px;--e-global-typography-accent-font-weight:bold;--e-global-typography-bb6524b-font-family:"Agelast";--e-global-typography-bb6524b-font-size:22px;--e-global-typography-bb6524b-font-weight:bold;--e-global-typography-4307c4e-font-family:"Comfortaa Regular";--e-global-typography-4307c4e-font-size:14px;--e-global-typography-4307c4e-font-weight:bold;--e-global-typography-213d881-font-family:"Comfortaa Regular";--e-global-typography-213d881-font-size:14px;--e-global-typography-213d881-font-weight:100;--e-global-typography-45a8539-font-family:"Comfortaa Light";--e-global-typography-45a8539-font-size:20px;--e-global-typography-23f77a2-font-family:"Comfortaa Bold";--e-global-typography-23f77a2-font-size:20px;--e-global-typography-22a8b50-font-family:"Agelast";--e-global-typography-22a8b50-font-size:20px;--e-global-typography-22a8b50-font-weight:bold;--e-global-typography-22a8b50-letter-spacing:3px;--e-global-typography-b94209b-font-family:"Agelast";--e-global-typography-b94209b-font-size:40px;--e-global-typography-b94209b-font-weight:400;--e-page-transition-entrance-animation:e-page-transition-fade-out-down;--e-page-transition-exit-animation:e-page-transition-fade-in-up;--e-page-transition-animation-duration:800ms;}.elementor-kit-8 h1{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-accent );background-color:var( --e-global-color-secondary );}.elementor-kit-8 button:hover,.elementor-kit-8 button:focus,.elementor-kit-8 input[type="button"]:hover,.elementor-kit-8 input[type="button"]:focus,.elementor-kit-8 input[type="submit"]:hover,.elementor-kit-8 input[type="submit"]:focus,.elementor-kit-8 .elementor-button:hover,.elementor-kit-8 .elementor-button:focus{color:var( --e-global-color-accent );background-color:var( --e-global-color-primary );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-container{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:0px;}.elementor-element{--widgets-spacing:0px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-8 e-page-transition{background-color:var( --e-global-color-text );}@media(max-width:1024px){.elementor-kit-8 h1{font-size:var( --e-global-typography-primary-font-size );}.elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button{font-size:var( --e-global-typography-text-font-size );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-container{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-8{--e-global-typography-bb6524b-font-size:30px;}.elementor-kit-8 h1{font-size:var( --e-global-typography-primary-font-size );}.elementor-kit-8 button,.elementor-kit-8 input[type="button"],.elementor-kit-8 input[type="submit"],.elementor-kit-8 .elementor-button{font-size:var( --e-global-typography-text-font-size );}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-container{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Agelast';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/wp03/wp-content/uploads/2022/08/Agelast_PersonalUse.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Comfortaa Regular';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/wp03/wp-content/uploads/2022/08/Comfortaa-Regular.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Comfortaa Light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/wp03/wp-content/uploads/2022/08/Comfortaa-Light.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Comfortaa Bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://localhost/wp03/wp-content/uploads/2022/08/Comfortaa-Bold.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
