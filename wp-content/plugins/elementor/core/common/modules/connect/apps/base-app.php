@@ -589,6 +589,10 @@ abstract class Base_App {
 	 * @access protected
 	 */
 	protected function set_client_id() {
+		if ( $this->get( 'client_id' ) ) {
+			return;
+		}
+
 		$response = $this->request(
 			'get_client_id',
 			[

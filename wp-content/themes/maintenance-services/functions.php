@@ -4,6 +4,8 @@
  *
  * @package Maintenance Services
  */
+
+
  global $content_width;
  if ( ! isset( $content_width ) )
 	$content_width = 640; /* pixels */ 
